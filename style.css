@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+#main{
+
+    /* background-color: black; */
+border: 2px solid black;
+height:20em;
+width: 25em;
+margin-left: 15em;
+/* margin-top: 2em; */
+background-color: black;
+border-radius: 10px;
+}
+
+#input{
+    margin-top: 0.5em;
+    margin-left: 16%;
+
+    border-radius: 8px;  
+      height: 4em;
+    width: 21em;
+    color: black;
+    text-align: right;
+    padding: 0 6px;
+}
+.but{
+    margin-top: 0.5em;
+    margin-left: 16%;
+    /* height: 30em; */
+}
+.value{
+    height: 3em;
+    width: 5em; 
+    border-radius: 1em; 
+}
