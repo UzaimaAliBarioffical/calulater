@@ -42,3 +42,44 @@ border-radius: 10px;
     width: 5em; 
     border-radius: 1em; 
 }
+@media screen and (max-width:550px) {
+    
+    h1{
+
+        text-align: center;
+        margin-top: 6px;
+        margin-left: 16em;
+    }
+    #main{
+
+        /* background-color: black; */
+    border: 2px solid black;
+    height:20em;
+    width: 15em;
+    /* margin-left: 10em; */
+    margin-top: 2em;
+    background-color: black;
+    /* border-radius: 2em; */
+    }
+    .but{
+        margin-top: 0.5em;
+        /* margin-left: 16%; */
+        /* height: 30em; */
+    }
+    .value{
+        height: 3em;
+        width: 3em; 
+        border-radius: 1em; 
+    }
+    #input{
+        margin-top: 0.5em;
+        /* margin-left: 16%; */
+    
+        border-radius: 8px;  
+          height: 3em;
+        width: 13em;
+        color: black;
+        text-align: right;
+        padding: 0 6px;
+    }
+}
