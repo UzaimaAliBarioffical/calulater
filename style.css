@@ -41,6 +41,11 @@ border-radius: 10px;
     height: 3em;
     width: 5em; 
     border-radius: 1em; 
+    color: black;
+}
+.color{
+    background-color: rgb(52, 235, 107);
+border: 2px solid rgb(63, 247, 49);
 }
 @media screen and (max-width:550px) {
     
@@ -70,6 +75,7 @@ border-radius: 10px;
         height: 3em;
         width: 3em; 
         border-radius: 1em; 
+        color: black;
     }
     #input{
         margin-top: 0.5em;
