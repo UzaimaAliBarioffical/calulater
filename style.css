@@ -88,4 +88,8 @@ border: 2px solid rgb(63, 247, 49);
         text-align: right;
         padding: 0 6px;
     }
+    .color{
+        background-color: rgb(52, 235, 107);
+    border: 2px solid rgb(63, 247, 49);
+    }
 }
